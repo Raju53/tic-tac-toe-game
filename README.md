@@ -18,9 +18,8 @@ TECHNOLOGIES USED:
 
 HOW TO PLAY / RUN THE GAME:
 
-1.  **Download or Clone:** Get the project files onto your computer.
+1.  **Download:** Get the project files onto your computer.
     * If you downloaded a ZIP, extract it.
-    * If you're cloning from GitHub, use: `git clone [YOUR_REPOSITORY_URL]` (e.g., `git clone https://github.com/YourGitHubUsername/tic-tac-toe-game.git`)
 2.  **Open in Browser:** Navigate to the project folder and simply open the `index.html` file in any web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.).
 3.  **Play:** Players take turns clicking on empty cells. The game will automatically detect a win (three in a row, column, or diagonal) or a tie.
 4.  **Reset:** Click the "Reset Game" button to start a new round.
